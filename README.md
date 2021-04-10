@@ -8,3 +8,5 @@ All my learnings undertaken
 3. Hands on ml. ![](https://github.com/fanbyprinciple/hands_on_ml)
 
 4. Deep Learning with Javascript. ![](https://github.com/fanbyprinciple/Deep-Learning-with-Javascript)
+
+5. Winning data science competition. ![](https://github.com/fanbyprinciple/how-to-win-a-data-science-competition)
