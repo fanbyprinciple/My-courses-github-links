@@ -14,7 +14,7 @@ My learnings
 
 6. [Intellingence and learning](https://github.com/fanbyprinciple/intandlearn)
 
-7. [Unity tutorials] (https://github.com/unity-journey)
+7. [Unity tutorials](https://github.com/unity-journey)
 
 8. [Udacity ML Engineer](https://github.com/udacity_ml_engineer)
 
