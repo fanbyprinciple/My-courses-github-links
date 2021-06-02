@@ -1,6 +1,6 @@
 # my-journal
 
-My learnings
+My learnings / courses link:
 
 1. [Fastai](https://github.com/fanbyprinciple/fastai)
 
@@ -20,4 +20,8 @@ My learnings
 
 9. [Chollet Keras](https://github.com/Chollet-masterclass)
 
-10.[Machine learning for Cyber Security](https://github.com/fanbyprinciple/Machine-Learning-For-Cyber-Security)
+10. [Machine learning for Cyber Security](https://github.com/fanbyprinciple/Machine-Learning-For-Cyber-Security)
+
+11. [Live Overflow notes](https://github.com/fanbyprinciple/live_overflow_notes)
+
+12. [Learn Tensorflow 2.0 from Pramod Avinash](https://github.com/fanbyprinciple/Learn-Tensorflow-2.0-Pramod-Avinash)
