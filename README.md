@@ -28,4 +28,4 @@ My learnings / courses link:
 
 13. [D2l AI book using pytorch ](https://github.com/fanbyprinciple/d2l-fanbyprinciple)
 
-14. [Pen300 ] (https://github.com/fanbyprinciple/pen300)
+14. [Pen300 ](https://github.com/fanbyprinciple/pen300)
