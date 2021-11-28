@@ -29,3 +29,5 @@ My learnings / courses link:
 13. [D2l AI book using pytorch ](https://github.com/fanbyprinciple/d2l-fanbyprinciple)
 
 14. [Pen300 ](https://github.com/fanbyprinciple/pen300)
+
+15. [Blockchain snippets](https://github.com/fanbyprinciple/blockchain_snippets)
