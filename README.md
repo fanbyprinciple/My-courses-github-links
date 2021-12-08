@@ -31,3 +31,5 @@ My learnings / courses link:
 14. [Pen300 ](https://github.com/fanbyprinciple/pen300)
 
 15. [Blockchain snippets](https://github.com/fanbyprinciple/blockchain_snippets)
+
+16. [Cisa prep](https://github.com/fanbyprinciple/cisa_prep)
