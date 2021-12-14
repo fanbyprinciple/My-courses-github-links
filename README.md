@@ -1,6 +1,6 @@
 # My Journal
 
-My learnings / courses link to repos :-
+My learnings / courses link to repos :
 
 1. [Fastai](https://github.com/fanbyprinciple/fastai)
 
