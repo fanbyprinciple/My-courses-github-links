@@ -33,3 +33,5 @@ My learnings / courses link to repos :
 15. [Blockchain snippets](https://github.com/fanbyprinciple/blockchain_snippets)
 
 16. [Cisa prep](https://github.com/fanbyprinciple/cisa_prep)
+
+17. [NLP with pytorch](https://github.com/fanbyprinciple/nlp-with-pytorch)
