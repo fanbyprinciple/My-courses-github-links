@@ -35,3 +35,5 @@ My learnings / courses link to repos :
 16. [Cisa prep](https://github.com/fanbyprinciple/cisa_prep)
 
 17. [NLP with pytorch](https://github.com/fanbyprinciple/nlp-with-pytorch)
+
+18. [Kaggle kernels](https://github.com/fanbyprinciple/kaggle_kernels)
