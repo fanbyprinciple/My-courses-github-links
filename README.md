@@ -37,3 +37,5 @@ My learnings / courses link to repos :
 17. [NLP with pytorch](https://github.com/fanbyprinciple/nlp-with-pytorch)
 
 18. [Kaggle kernels](https://github.com/fanbyprinciple/kaggle_kernels)
+
+19. [Simple Apps](https://github.com/fanbyprinciple/simpleapps)
