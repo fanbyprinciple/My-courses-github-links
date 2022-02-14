@@ -39,3 +39,5 @@ My learnings / courses link to repos :
 18. [Kaggle kernels](https://github.com/fanbyprinciple/kaggle_kernels)
 
 19. [Simple Apps](https://github.com/fanbyprinciple/simpleapps)
+
+20. [Gpt3 apps](https://github.com/fanbyprinciple/gpt3-apps)
