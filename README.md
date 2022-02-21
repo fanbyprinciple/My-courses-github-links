@@ -40,4 +40,6 @@ My learnings / courses link to repos :
 
 19. [Simple Apps](https://github.com/fanbyprinciple/simpleapps)
 
-20. [Gpt3 apps](https://github.com/fanbyprinciple/gpt3-apps)
+20. [Rust code links](https://github.com/fanbyprinciple/rust_code_examples)
+
+21. [Gpt3 apps](https://github.com/fanbyprinciple/gpt3-apps)
