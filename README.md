@@ -2,19 +2,19 @@
 
 My learnings / courses link to repos :
 
-1. [Fastai](https://github.com/fanbyprinciple/fastai)
+1. [Fastai](https://github.com/fanbyprinciple/fastai) - active
 
-2. [Andrew Ng Coursera](https://github.com/fanbyprinciple/Andrew-Ng-Coursera-Machine-Learning-Notes)
+2. [Andrew Ng Coursera](https://github.com/fanbyprinciple/Andrew-Ng-Coursera-Machine-Learning-Notes) - completed
 
-3. [Hands on Machine learning](https://github.com/fanbyprinciple/hands_on_ml)
+3. [Hands on Machine learning](https://github.com/fanbyprinciple/hands_on_ml) - completed
 
-4. [Deep learning with Javascript](https://github.com/fanbyprinciple/Deep-Learning-with-Javascript)
+4. [Deep learning with Javascript](https://github.com/fanbyprinciple/Deep-Learning-with-Javascript) - inactive
 
-5. [Coursera winning a data science competition](https://github.com/fanbyprinciple/how-to-win-a-data-science-competition)
+5. [Coursera winning a data science competition](https://github.com/fanbyprinciple/how-to-win-a-data-science-competition) - incomplete
 
-6. [Intellingence and learning](https://github.com/fanbyprinciple/intandlearn)
+6. [Intellingence and learning](https://github.com/fanbyprinciple/intandlearn) - inactive
 
-7. [Unity tutorials](https://github.com/unity-journey)
+7. [Unity tutorials](https://github.com/unity-journey) - incomplete
 
 8. [Udacity ML Engineer](https://github.com/udacity_ml_engineer)
 
@@ -43,3 +43,5 @@ My learnings / courses link to repos :
 20. [Rust code links](https://github.com/fanbyprinciple/rust_code_examples)
 
 21. [Gpt3 apps](https://github.com/fanbyprinciple/gpt3-apps)
+
+22. [Deep learning ai specialisation](https://github.com/fanbyprinciple/Deep-learning-ai-specialisation) - incomplete
