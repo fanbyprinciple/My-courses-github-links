@@ -16,15 +16,15 @@ My learnings / courses link to repos :
 
 7. [Unity tutorials](https://github.com/unity-journey) - incomplete
 
-8. [Udacity ML Engineer](https://github.com/udacity_ml_engineer)
+8. [Udacity ML Engineer](https://github.com/udacity_ml_engineer) - incomplete
 
-9. [Chollet Keras](https://github.com/Chollet-masterclass)
+9. [Chollet Keras](https://github.com/Chollet-masterclass) - incomplete (last few chapters)
 
-10. [Machine learning for Cyber Security](https://github.com/fanbyprinciple/Machine-Learning-For-Cyber-Security)
+10. [Machine learning for Cyber Security](https://github.com/fanbyprinciple/Machine-Learning-For-Cyber-Security) - completed
 
-11. [Live Overflow notes](https://github.com/fanbyprinciple/live_overflow_notes)
+11. [Live Overflow notes](https://github.com/fanbyprinciple/live_overflow_notes) - not all videos.
 
-12. [Learn Tensorflow 2.0 from Pramod Avinash](https://github.com/fanbyprinciple/Learn-Tensorflow-2.0-Pramod-Avinash)
+12. [Learn Tensorflow 2.0 from Pramod Avinash](https://github.com/fanbyprinciple/Learn-Tensorflow-2.0-Pramod-Avinash) - completed.
 
 13. [D2l AI book using pytorch ](https://github.com/fanbyprinciple/d2l-fanbyprinciple)
 
