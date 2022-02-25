@@ -26,22 +26,22 @@ My learnings / courses link to repos :
 
 12. [Learn Tensorflow 2.0 from Pramod Avinash](https://github.com/fanbyprinciple/Learn-Tensorflow-2.0-Pramod-Avinash) - completed.
 
-13. [D2l AI book using pytorch ](https://github.com/fanbyprinciple/d2l-fanbyprinciple)
+13. [D2l AI book using pytorch ](https://github.com/fanbyprinciple/d2l-fanbyprinciple) - not completed
 
-14. [Pen300 ](https://github.com/fanbyprinciple/pen300)
+14. [Pen300 ](https://github.com/fanbyprinciple/pen300) - not completed
 
-15. [Blockchain snippets](https://github.com/fanbyprinciple/blockchain_snippets)
+15. [Blockchain snippets](https://github.com/fanbyprinciple/blockchain_snippets) - in progress
 
-16. [Cisa prep](https://github.com/fanbyprinciple/cisa_prep)
+16. [Cisa prep](https://github.com/fanbyprinciple/cisa_prep) - done
 
-17. [NLP with pytorch](https://github.com/fanbyprinciple/nlp-with-pytorch)
+17. [NLP with pytorch](https://github.com/fanbyprinciple/nlp-with-pytorch) - not started
 
-18. [Kaggle kernels](https://github.com/fanbyprinciple/kaggle_kernels)
+18. [Kaggle kernels](https://github.com/fanbyprinciple/kaggle_kernels) - in progress
 
-19. [Simple Apps](https://github.com/fanbyprinciple/simpleapps)
+19. [Simple Apps](https://github.com/fanbyprinciple/simpleapps) - in progress
 
-20. [Rust code links](https://github.com/fanbyprinciple/rust_code_examples)
+20. [Rust code links](https://github.com/fanbyprinciple/rust_code_examples) - in progress
 
-21. [Gpt3 apps](https://github.com/fanbyprinciple/gpt3-apps)
+21. [Gpt3 apps](https://github.com/fanbyprinciple/gpt3-apps) - in progress
 
 22. [Deep learning ai specialisation](https://github.com/fanbyprinciple/Deep-learning-ai-specialisation) - incomplete
