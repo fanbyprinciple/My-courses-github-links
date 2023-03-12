@@ -2,6 +2,8 @@
 
 My learnings / courses link to repos :
 
+0. [Nature of code](https://github.com/fanbyprinciple/noc-fanbyprinciple)
+
 1. [Fastai](https://github.com/fanbyprinciple/fastai) - active
 
 2. [Andrew Ng Coursera](https://github.com/fanbyprinciple/Andrew-Ng-Coursera-Machine-Learning-Notes) - completed
