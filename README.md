@@ -47,3 +47,6 @@ My learnings / courses link to repos :
 21. [Gpt3 apps](https://github.com/fanbyprinciple/gpt3-apps) - in progress
 
 22. [Deep learning ai specialisation](https://github.com/fanbyprinciple/Deep-learning-ai-specialisation) - incomplete
+
+23. [Meta course on React Native](https://github.com/fanbyprinciple/Meta_react_course_coursera) - complete till hit by paywall :0
+    
