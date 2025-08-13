@@ -48,5 +48,5 @@ My learnings / courses link to repos :
 
 22. [Deep learning ai specialisation](https://github.com/fanbyprinciple/Deep-learning-ai-specialisation) - incomplete
 
-23. [Meta course on React Native](https://github.com/fanbyprinciple/Meta_react_course_coursera) - complete till hit by paywall :0
+23. [Meta course on React Native](https://github.com/fanbyprinciple/Meta_react_course_coursera) - complete till hit by paywall :[
     
